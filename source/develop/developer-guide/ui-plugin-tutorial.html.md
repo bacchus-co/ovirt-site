@@ -30,7 +30,7 @@ Our journey starts in `/usr/share/ovirt-engine/ui-plugins` directory, home of pl
 
     {
         "name": "space-shooter",
-        "url": "plugin/space-shooter/plugin.html",
+        "url": "plugin/space-shooter/start.html",
         "resourcePath": "space-shooter-resources"
     }
 
